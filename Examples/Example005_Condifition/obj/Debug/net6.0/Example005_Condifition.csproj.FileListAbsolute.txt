@@ -1,0 +1,15 @@
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.csproj.AssemblyReference.cache
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.AssemblyInfoInputs.cache
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.AssemblyInfo.cs
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.csproj.CoreCompileInputs.cache
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\bin\Debug\net6.0\Example005_Condifition.exe
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\bin\Debug\net6.0\Example005_Condifition.deps.json
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\bin\Debug\net6.0\Example005_Condifition.runtimeconfig.json
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\bin\Debug\net6.0\Example005_Condifition.dll
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\bin\Debug\net6.0\Example005_Condifition.pdb
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.dll
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\refint\Example005_Condifition.dll
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.pdb
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\Example005_Condifition.genruntimeconfig.cache
+C:\Users\мы\OneDrive\Рабочий стол\C#\c#_lekcia1\Examples\Example005_Condifition\obj\Debug\net6.0\ref\Example005_Condifition.dll
